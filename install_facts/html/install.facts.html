@@ -139,13 +139,14 @@ check that the environment is wired up correctly.</p>
 <p><br></p>
 <pre><code>bash submit_ssisls_experiment.sh ssp245</code></pre>
 <p><br></p>
+<p><strong>EXIT the docker container</strong> <code>ctrl + c</code></p>
 <hr />
 <h2 id="Visualize"><a href="#contents">5. Visualize FACTS output
 Data</a></h2>
 <p>Use the <a
 href="https://github.com/Ttheegela/facts.plotting.dashboard">FACTS.Visualization.dashboard</a>.<br />
-1. To see global projections. 2. A table of component contributors (AIS,
-GrIS,glaciers etc).</p>
+1. To see global projections.<br />
+2. A table of component contributors (AIS, GrIS,glaciers etc).</p>
 <p>Get the dashboard from github and run with docker.</p>
 <pre><code>cd /Users/UNAME/Desktop/facts_ssisls
 git clone https://github.com/Ttheegela/facts.plotting.dashboard.git</code></pre>
@@ -155,7 +156,7 @@ git clone https://github.com/Ttheegela/facts.plotting.dashboard.git</code></pre>
 bash docker/build.sh</code></pre>
 <p><br></p>
 <p>Run the container (like below), which produces an HTML file.</p>
-<pre><code>bash docker/run.sh --ssp-dir /Users/UNAME/Desktop/facts_ssisls/facts/experiments_ssisls/ssp585/</code></pre>
+<pre><code>bash docker/run.sh --ssp-dir /Users/UNAME/Desktop/facts_ssisls/facts/experiments_ssisls/ssp585/ --output /Users/UNAME/Desktop/facts_ssisls/facts.plotting.dashboard/facts_dashboard.html</code></pre>
 <p><br></p>
 <hr />
 <p><sub>Last updated: 2026-05 · Crrent guide author:
