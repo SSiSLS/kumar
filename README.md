@@ -7,8 +7,8 @@
     <br>
 
   1. Find the FACTS set up guide <u>Introduction</u> [here](/lectures/FACTS.run.experiment_slides.pdf).   
-    - Ensure you meet all the [basic system requirements](https://raw.githack.com/SSiSLS/kumar/refs/heads/main/install_facts/html/install.facts.requirements.html) before installing FACTS. 
-    - Find the Install guide [here](https://raw.githack.com/SSiSLS/kumar/refs/heads/main/install_facts/html/install.facts.html). 
+    - Ensure you meet all the [basic system requirements](https://raw.githack.com/SSiSLS/kumar/refs/heads/main/install_facts/html/install.facts.requirements.html) before installing FACTS.   
+    - Find the Install guide [here](https://raw.githack.com/SSiSLS/kumar/refs/heads/main/install_facts/html/install.facts.html).   
     <br>
 
   1. Find a comprehensive reading list of FACTS publications [here](/lectures/FACTS.readinglist.md).
