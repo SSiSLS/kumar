@@ -1,5 +1,5 @@
-# Welcome to the FACTS repo 
-  ... for the WHOI-NASA SSiSLS 
+# Welcome to the SSiSLS - FACTS repo 
+  ... built for the 2026 WHOI-NASA Summer School in Sea-Level Science (SSiSLS) participants. 
   
 ---
 
